@@ -1,0 +1,19 @@
+{
+  "name": "react-sandbox",
+  "version": "1.0.0",
+  "description": "This is react sandobx to upgrade react skill and learn AI integration with react and much more...",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chandrajha/react-sandbox.git"
+  },
+  "author": "Amresh Chandra Jha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chandrajha/react-sandbox/issues"
+  },
+  "homepage": "https://github.com/chandrajha/react-sandbox#readme"
+}
