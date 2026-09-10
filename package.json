@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/chandrajha/react-sandbox/issues"
   },
-  "homepage": "https://github.com/chandrajha/react-sandbox#readme"
+  "homepage": "https://github.com/chandrajha/react-sandbox#readme",
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  }
 }
